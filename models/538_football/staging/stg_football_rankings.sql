@@ -1,0 +1,1 @@
+SELECT * FROM dbt-ae-junn.538_football.stg_football_rankings
